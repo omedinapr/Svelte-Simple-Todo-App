@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    [
+      "svelteflat",
+      [
+        {
+          "libraryName": "svelte-ui",
+          "styleLibraryName": "svelte-ui-theme",
+          "typoCss": true
+        }
+      ]
+    ]
+  ]
+}
